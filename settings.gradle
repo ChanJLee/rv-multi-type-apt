@@ -1,1 +1,1 @@
-include ':app', ':rv-mt-compiler', ':rv-mt-annotations'
+include ':app', ':rv-mt-compiler', ':rv-mt-annotations', ':rv-mt-lib'

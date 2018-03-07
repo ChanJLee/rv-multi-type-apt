@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/rv-mt-annotations" />
             <option value="$PROJECT_DIR$/rv-mt-compiler" />
+            <option value="$PROJECT_DIR$/rv-mt-lib" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

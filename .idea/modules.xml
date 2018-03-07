@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rv-mt-annotations/rv-mt-annotations.iml" filepath="$PROJECT_DIR$/rv-mt-annotations/rv-mt-annotations.iml" />
       <module fileurl="file://$PROJECT_DIR$/rv-mt-compiler/rv-mt-compiler.iml" filepath="$PROJECT_DIR$/rv-mt-compiler/rv-mt-compiler.iml" />
       <module fileurl="file://$PROJECT_DIR$/rvmtapt.iml" filepath="$PROJECT_DIR$/rvmtapt.iml" />
     </modules>
