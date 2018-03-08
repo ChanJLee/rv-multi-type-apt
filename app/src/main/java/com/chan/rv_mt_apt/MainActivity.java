@@ -3,6 +3,9 @@ package com.chan.rv_mt_apt;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.chan.annotations.Data;
+
+@Data
 public class MainActivity extends AppCompatActivity {
 
 	@Override
